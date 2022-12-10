@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanchit-Jain07
 - 👀 I’m interested in Competitive Programming and Web Development
-- 🌱 I’m currently learning C++ and Django
+- 🌱 I’m currently learning C++ and Frontend Development
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me -> sanchitjain1107@gmail.com
 
