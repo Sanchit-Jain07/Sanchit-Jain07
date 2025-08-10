@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @Sanchit-Jain07
-- 👀 I’m interested in Competitive Programming and Web Development
-- 🌱 I’m currently learning C++ and Frontend Development
-- 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me -> sanchitjain1107@gmail.com
+# 👋 Hi, I'm Sanchit Jain
+
+🎓 **Computer Science Engineering student** (pre-final year) passionate about **data science**, **sports analytics**, and **creative problem solving**.  
+💻 I enjoy building data-driven products that turn raw information into meaningful insights.
+
+---
+
+## 🚀 About Me
+- 🏆 **GATE CSE 2025 AIR 486**
+- 📊 Experienced in **data analytics**, **data warehousing**, and **ML**
+- 🌱 Always learning — from **advanced Python** to **low-level programming in C**
+
+---
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/sanchit-jain-2a1374258) • [GitHub](https://github.com/Sanchit-Jain07) • **Email:** sanchitjain1107@gmail.com
 
 <!---
 Sanchit-Jain07/Sanchit-Jain07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
